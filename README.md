@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coded-Student
 - 👀 I’m interested in learning programming language
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
